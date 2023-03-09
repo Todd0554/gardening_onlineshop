@@ -1,6 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+
+import './lib/owlcarousel/assets/owl.carousel.min.css';
+import './css/style.css';
+import './css/style.min.css';
+import './scss/style.scss';
+
+
+
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
