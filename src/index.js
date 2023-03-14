@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 
 import './lib/owlcarousel/assets/owl.carousel.min.css';
-import './css/style.css';
-import './css/style.min.css';
+// import './css/style.css';
+// import './css/style.min.css';
 import './scss/style.scss';
 
 
