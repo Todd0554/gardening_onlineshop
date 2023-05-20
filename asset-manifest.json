@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gardening_onlineshop/static/css/main.c7046069.css",
-    "main.js": "/gardening_onlineshop/static/js/main.148a4356.js",
+    "main.js": "/gardening_onlineshop/static/js/main.464a0551.js",
     "static/js/708.c9ba2c49.chunk.js": "/gardening_onlineshop/static/js/708.c9ba2c49.chunk.js",
     "static/js/511.0e6d0b9c.chunk.js": "/gardening_onlineshop/static/js/511.0e6d0b9c.chunk.js",
     "static/js/884.eea89163.chunk.js": "/gardening_onlineshop/static/js/884.eea89163.chunk.js",
     "static/js/787.5207e342.chunk.js": "/gardening_onlineshop/static/js/787.5207e342.chunk.js",
     "index.html": "/gardening_onlineshop/index.html",
     "main.c7046069.css.map": "/gardening_onlineshop/static/css/main.c7046069.css.map",
-    "main.148a4356.js.map": "/gardening_onlineshop/static/js/main.148a4356.js.map",
+    "main.464a0551.js.map": "/gardening_onlineshop/static/js/main.464a0551.js.map",
     "708.c9ba2c49.chunk.js.map": "/gardening_onlineshop/static/js/708.c9ba2c49.chunk.js.map",
     "511.0e6d0b9c.chunk.js.map": "/gardening_onlineshop/static/js/511.0e6d0b9c.chunk.js.map",
     "884.eea89163.chunk.js.map": "/gardening_onlineshop/static/js/884.eea89163.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.c7046069.css",
-    "static/js/main.148a4356.js"
+    "static/js/main.464a0551.js"
   ]
 }
