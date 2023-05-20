@@ -2,7 +2,7 @@
   "name": "gardening-online-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Todd0554.github.io/gardening_onlineshop",
+  "homepage": "https://Todd0554.github.io/gardening_onlineshop/#",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
