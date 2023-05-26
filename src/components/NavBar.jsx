@@ -85,7 +85,7 @@ function NavBar() {
                 <div id="header-carousel" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" style={{height: "410px"}}>
-                            <img class="img-fluid" src="img/carousel-1.jpg" alt="Image"></img>
+                            <img class="img-fluid" src="/img/carousel-1.jpg" alt="Image"></img>
                             <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                                 <div class="p-3" style={{maxWidth: "700px"}}>
                                     <h4 class="text-light text-uppercase font-weight-medium mb-3">xxx xxx xxxx xxxxx xxxxx</h4>
@@ -95,7 +95,7 @@ function NavBar() {
                             </div>
                         </div>
                         <div class="carousel-item" style={{height: "410px"}}>
-                            <img class="img-fluid" src="img/carousel-2.jpg" alt="Image"></img>
+                            <img class="img-fluid" src="/img/carousel-2.jpg" alt="Image"></img>
                             <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                                 <div class="p-3" style={{maxWidth: "700px"}}>
                                     <h4 class="text-light text-uppercase font-weight-medium mb-3">xxx xxx xxxx xxxxx xxxxx</h4>
