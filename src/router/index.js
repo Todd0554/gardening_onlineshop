@@ -14,7 +14,7 @@ export const router = [
         element: Products
     },
     {
-        path:"/product",
+        path:"/product/:id",
         element: Product
     }
 ]

@@ -3,41 +3,49 @@ import React from 'react'
 function ShowProducts() {
     const imageArray = [
       {
+        id:1,
         name: "Aglaonema Lady Valentine",
         imageTag: "product-1.jpg",
         price: 13.95
       },
       {
+        id:2,
         name: "Anthurium Jenmanii",
         imageTag: "product-2.jpg",
         price: 14.25
       },
       {
+        id:3,
         name: "Ficus Abidjan",
         imageTag: "product-3.jpg",
         price: 13.95
       },
       {
+        id:4,
         name: "Philodendron imperial",
         imageTag: "product-4.jpg",
         price: 13.95
       },
       {
+        id:5,
         name: "Spathiphyllum Sweet Romano",
         imageTag: "product-5.jpg",
         price: 5.95
       },
       {
+        id:6,
         name: "dieffenbachia amy",
         imageTag: "product-6.jpg",
         price: 10.95
       },
       {
+        id:7,
         name: "ficus melany",
         imageTag: "product-7.jpg",
         price: 34.00
       },
       {
+        id:8,
         name: "philodendron birkin",
         imageTag: "product-8.jpg",
         price: 22.45
@@ -64,7 +72,7 @@ function ShowProducts() {
                 </div>
               </div>
               <div class="card-footer d-flex justify-content-between bg-light border">
-                <a href="/product" class="btn btn-sm text-dark p-0">
+                <a href={`/product/${i.id}`} class="btn btn-sm text-dark p-0">
                   <i class="fas fa-eye text-primary mr-1"></i>View Detail
                 </a>
                 <a href="" class="btn btn-sm text-dark p-0">

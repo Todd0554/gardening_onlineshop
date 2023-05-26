@@ -1,13 +1,13 @@
 import React from "react";
 import {router} from './router/index';
-import { HashRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import TopBar from "./components/TopBar";
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 function App() {
   return (
     <div className="App">
-        <HashRouter>
+        <BrowserRouter>
           <TopBar />
           <NavBar />
 
@@ -22,8 +22,7 @@ function App() {
               </Routes>
           </React.Suspense>
           </main>
-          {/* <Footer /> */}
-        </HashRouter>
+        </BrowserRouter>
         <Footer />
     </div>
   );
